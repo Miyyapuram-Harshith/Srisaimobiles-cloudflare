@@ -16,7 +16,7 @@ compatibility_date = "2024-03-20"
 binding = "DB"
 database_name = "srisai_db_dev"
 # Replace with your actual development database_id when deploying, or use wrangler to inject it
-database_id = "DEV_D1_DATABASE_ID_HERE" 
+database_id = "ac376cb7-7552-4f1f-8291-8e943ee5255b"
 
 [[r2_buckets]]
 binding = "STORAGE"
